@@ -1,6 +1,8 @@
 # LENIS-RODRIGUES
 Welcome to my GitHub Profile 👋
 
+👩‍💼 About Me
+
 🎓 Education: Currently Pursuing Master's degree in Information Systems from DePaul University, Bachelor's degree in Computer Engineering from the University of Mumbai.
 
 💼 Previously Worked At: Credence Analytics, EbixCash Financial Services
