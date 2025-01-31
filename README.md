@@ -1,2 +1,2 @@
 # LENIS-RODRIGUES
-first hola
+Welcome to my GitHub Profile 👋
