@@ -7,7 +7,7 @@ Welcome to my GitHub Profile 👋
 
 👩‍💼 **About Me**
 
-🎓 I am currently pursuing a Master’s degree in Information Systems at DePaul University.  
+🎓 I completed my Master’s degree in Information Systems at DePaul University, June 2025 
 🎓 I hold a Bachelor’s degree in Computer Engineering from the University of Mumbai.
 
 💼 I have previously worked at Rebecca Everlene Trust Company, Credence Analytics and EbixCash Financial Services
