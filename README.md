@@ -10,7 +10,7 @@ Welcome to my GitHub Profile 👋
 🎓 I am currently pursuing a Master’s degree in Information Systems at DePaul University.  
 🎓 I hold a Bachelor’s degree in Computer Engineering from the University of Mumbai.
 
-💼 I have previously worked at Rebecca Everlene Trust Company, Credence Analytics, EbixCash Financial Services, and Clarus Info Solutions.
+💼 I have previously worked at Rebecca Everlene Trust Company, Credence Analytics and EbixCash Financial Services
 
 💻 I specialize in Business Intelligence, Agile Project Management, Data Visualization, ETL Development, and Technical Implementations.
 
